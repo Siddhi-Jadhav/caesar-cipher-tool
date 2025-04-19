@@ -27,9 +27,3 @@ For example, with a shift of **3**:
 Decryption reverses this process.
 
 ---
-
-## 🚀 How to Run the Project
-
-1. **Clone this repository** or **download the ZIP**:
-   ```bash
-   git clone https://github.com/yourusername/caesar-cipher-tool.git
